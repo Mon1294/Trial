@@ -1,4 +1,4 @@
 streamlit-lottie
 streamlit-pretty-notification-box
 streamlit_option_menu
-./streamlit-0.79.0-py2.py3-none-any.whl
+./streamlit/config.toml
