@@ -2,7 +2,7 @@ import sqlite3
 
 import pandas as pd
 import streamlit as st
-from streamlit-lottie import st_lottie
+from streamlit_lottie import st_lottie
 
 import functions as ft
 import takeoutfood as tkf
