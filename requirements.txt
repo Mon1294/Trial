@@ -1,4 +1,3 @@
 streamlit-lottie
 streamlit-pretty-notification-box
 streamlit_option_menu
-./streamlit/config.toml
