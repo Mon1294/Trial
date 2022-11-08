@@ -1,5 +1,2 @@
 streamlit-lottie
 streamlit-pretty-notification-box
-functions.py
-takeoutfood.py
-interface.py
